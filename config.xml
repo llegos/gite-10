@@ -2,13 +2,13 @@
 
    <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap = "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app7"
+  id = "com.phonegap.app10"
   version = "1.0.0">
   
- <name>app7 Deslizar hacia la izquierda y hacia la derecha</name>
+ <name>app10 Tutorial de DSUPE</name>
   
   <description>
-     Aplicasion que realiza el swipe o deslizamiento en el dispositivo.
+     Aplicasion que te explica casi todo para aprender Dsupe
   </description>
   
  <author href="https://build.phonegap.com" email="yorschiito@gmail.com">
